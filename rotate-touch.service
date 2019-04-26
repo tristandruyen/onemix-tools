@@ -1,0 +1,10 @@
+[Unit]
+Description="Rotate Touchscreen"
+
+[Service]
+Type=simple
+ExecStart="/home/tristan/code/onemix-tools/run.sh"
+User=root
+
+[Install]
+WantedBy=multi-user.target
