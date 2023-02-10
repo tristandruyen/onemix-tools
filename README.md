@@ -3,7 +3,7 @@ Small script to auto-rotate the touchscreen toghether with screen via data fro i
 
 Made to work with one-netbook's one mix 2s but should work with basically all touchscreens if you adjust the udev rules... 
 
-Hacked together in one night so code-quality is shit
+Hacked together in one night so code-quality is 💩
 
 
 ### How it works
